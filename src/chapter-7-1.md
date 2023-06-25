@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Delegation: Common Obstacles to Delegation
-=============================================================================
+# Common Obstacles to Delegation
 
 Effective delegation is essential for effective management, but it can be challenging to implement. In this chapter, we will explore common obstacles to delegation.
 

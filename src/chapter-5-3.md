@@ -1,5 +1,4 @@
-Chapter 5: Communicating Effectively for Successful Delegation: Giving Feedback and Recognition
-===============================================================================================
+# Giving Feedback and Recognition
 
 Effective communication is essential for successful delegation. In this chapter, we will explore strategies for giving feedback and recognition to employees when delegating tasks.
 

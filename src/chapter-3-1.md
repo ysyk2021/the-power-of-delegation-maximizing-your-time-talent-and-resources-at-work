@@ -1,5 +1,4 @@
-Chapter 3: Identifying Tasks for Delegation: Assessing Your Strengths and Weaknesses
-====================================================================================
+# Assessing Your Strengths and Weaknesses
 
 Identifying tasks for delegation requires assessing your own strengths and weaknesses as a manager. To delegate effectively, managers must understand their own areas of expertise and limitations, and identify tasks that can be delegated to others who are better suited for those tasks. In this chapter, we will explore strategies for assessing your strengths and weaknesses.
 

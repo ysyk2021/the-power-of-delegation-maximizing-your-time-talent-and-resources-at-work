@@ -1,5 +1,4 @@
-Chapter 3: Identifying Tasks for Delegation: Evaluating Task Suitability for Delegation
-=======================================================================================
+# Evaluating Task Suitability for Delegation
 
 Identifying tasks that are suitable for delegation is an essential component of effective delegation. To delegate effectively, managers must evaluate tasks to determine which ones can be delegated and which ones should be kept under their direct control. In this chapter, we will explore strategies for evaluating task suitability for delegation.
 

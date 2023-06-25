@@ -1,5 +1,4 @@
-Chapter 2: Understanding Delegation: Definition of Delegation
-=============================================================
+# Definition of Delegation
 
 Delegation is the act of assigning tasks or responsibilities to others while retaining accountability for the outcome. In other words, delegation involves giving someone else the authority and responsibility to complete a task on your behalf, while still maintaining oversight and ultimate responsibility for the task's success.
 

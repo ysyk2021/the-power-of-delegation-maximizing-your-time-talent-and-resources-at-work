@@ -1,5 +1,4 @@
-Chapter 6: Monitoring and Measuring Success in Delegation: Qualitative and Quantitative Methods for Evaluation
-==============================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 Delegation is an essential component of effective management. However, to ensure that delegation is successful, it is important to monitor and measure its effectiveness. In this chapter, we will explore qualitative and quantitative methods for evaluating the effectiveness of delegation.
 

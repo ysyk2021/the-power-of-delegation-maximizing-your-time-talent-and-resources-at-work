@@ -1,5 +1,4 @@
-Chapter 9: Integrating Delegation with Organizational Culture: Developing Delegation as a Leadership Competency
-===============================================================================================================
+# Developing Delegation as a Leadership Competency
 
 Effective delegation is not just a task to be completed; it should be integrated into the overall culture of an organization. In this chapter, we will explore how to develop delegation as a leadership competency and integrate it with organizational culture.
 

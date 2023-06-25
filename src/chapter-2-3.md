@@ -1,5 +1,4 @@
-Chapter 2: Understanding Delegation: Common Myths about Delegation
-==================================================================
+# Common Myths about Delegation
 
 Delegation is an essential component of effective management. However, there are several common myths about delegation that can hinder its effectiveness. In this chapter, we will explore some of the most common myths about delegation.
 

@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right People for the Job: Building a Delegation Plan
-=============================================================================
+# Building a Delegation Plan
 
 Delegation is not just about assigning tasks; it is about selecting the right people to execute those tasks. To build a successful delegation plan, it is important to identify the strengths and weaknesses of each team member and match them with tasks that align with their skills and interests.
 

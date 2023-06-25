@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right People for the Job: Assessing Delegates' Skills and Capabilities
-===============================================================================================
+# Assessing Delegates' Skills and Capabilities
 
 Effective delegation requires selecting the right people for the job. To do this, it is important to assess delegates' skills and capabilities to ensure that they are well-suited for the tasks they are given.
 

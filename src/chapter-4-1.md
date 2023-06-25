@@ -1,5 +1,4 @@
-Chapter 4: Selecting the Right People for the Job: Identifying Potential Delegates
-==================================================================================
+# Identifying Potential Delegates
 
 Effective delegation requires selecting the right people for the job. To do this, managers must identify potential delegates who are well-suited for the tasks they are given. In this chapter, we will explore strategies for identifying potential delegates.
 

@@ -1,5 +1,4 @@
-Chapter 5: Communicating Effectively for Successful Delegation: Setting Clear Expectations and Objectives
-=========================================================================================================
+# Setting Clear Expectations and Objectives
 
 Setting clear expectations and objectives is a critical component of effective delegation. When delegating tasks, managers must clearly communicate what needs to be done, why it needs to be done, and when it needs to be done. In this chapter, we will explore how to set clear expectations and objectives for successful delegation.
 
