@@ -8,5 +8,4 @@ This book offers proven techniques for delegating tasks and responsibilities eff
 
 Whether you're a manager, business owner, or employee looking to maximize your impact, The Power of Delegation provides essential guidance for achieving more with less. By mastering the art of delegation, you can free up your time, focus on high-priority tasks, and empower your team to achieve better outcomes.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
