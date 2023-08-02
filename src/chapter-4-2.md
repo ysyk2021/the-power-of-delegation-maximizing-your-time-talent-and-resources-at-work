@@ -1,4 +1,4 @@
-Chapter 7: Assessing Delegates' Skills and Capabilities
+Assessing Delegates' Skills and Capabilities
 =======================================================
 
 **Introduction**

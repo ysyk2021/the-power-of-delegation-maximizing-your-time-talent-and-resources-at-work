@@ -1,4 +1,4 @@
-Chapter 4: Identifying Potential Delegates
+Identifying Potential Delegates
 ==========================================
 
 **Introduction**

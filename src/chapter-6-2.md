@@ -1,4 +1,4 @@
-Chapter 8: Qualitative and Quantitative Methods for Evaluation
+Qualitative and Quantitative Methods for Evaluation
 ==============================================================
 
 **Introduction**

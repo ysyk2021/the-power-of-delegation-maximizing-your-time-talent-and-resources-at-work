@@ -1,4 +1,4 @@
-Chapter 9: Key Performance Indicators (KPIs) for Measuring Success
+Key Performance Indicators (KPIs) for Measuring Success
 ==================================================================
 
 **Introduction**

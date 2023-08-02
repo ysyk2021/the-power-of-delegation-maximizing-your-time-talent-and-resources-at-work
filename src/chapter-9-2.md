@@ -1,4 +1,4 @@
-Chapter 6: Developing Delegation as a Leadership Competency
+Developing Delegation as a Leadership Competency
 ===========================================================
 
 In this chapter, we will explore the significance of developing delegation as a leadership competency. Delegation is not merely about assigning tasks; it is a skill that can drive productivity, foster growth, and maximize the potential of your team members. By mastering the art of delegation, you can become an effective leader who empowers others and achieves remarkable outcomes.

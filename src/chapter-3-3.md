@@ -1,4 +1,4 @@
-Chapter 4: Evaluating Task Suitability for Delegation
+Evaluating Task Suitability for Delegation
 =====================================================
 
 In order to maximize the benefits of delegation, it is essential to evaluate the suitability of tasks for delegation. Not all tasks are suitable for delegation, and identifying which tasks to delegate is crucial for effective time management and resource allocation. In this chapter, we will explore the factors to consider when evaluating task suitability for delegation.

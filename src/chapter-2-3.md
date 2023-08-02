@@ -1,4 +1,4 @@
-Chapter 5: Common Myths About Delegation
+Common Myths About Delegation
 ========================================
 
 **Introduction**

@@ -1,4 +1,4 @@
-Chapter 6: Building a Delegation Plan
+Building a Delegation Plan
 =====================================
 
 **Introduction**

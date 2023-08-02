@@ -1,4 +1,4 @@
-Chapter 1: Overview of the Book
+Overview of the Book
 ===============================
 
 Welcome to "The Power of Delegation: Maximizing Your Time, Talent, and Resources at Work." In this book, we will explore the art and science of delegation and how it can transform your work life by improving productivity, leveraging talent, and optimizing resource allocation. Whether you're a manager, team leader, or an individual contributor, mastering delegation is a crucial skill that can propel you towards professional success.

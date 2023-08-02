@@ -1,4 +1,4 @@
-Chapter 2: Definition of Delegation
+Definition of Delegation
 ===================================
 
 **Introduction**

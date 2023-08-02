@@ -1,4 +1,4 @@
-Chapter 3: Identifying Opportunities for Delegation
+Identifying Opportunities for Delegation
 ===================================================
 
 Identifying opportunities for delegation is a critical step in harnessing the power of delegation to maximize your time, talent, and resources at work. By recognizing tasks and responsibilities that can be effectively delegated, individuals can free up their time for more strategic activities and empower their team members to contribute and grow. In this chapter, we will explore how to identify opportunities for delegation.

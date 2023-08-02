@@ -1,4 +1,4 @@
-Chapter 4: Common Obstacles to Delegation
+Common Obstacles to Delegation
 =========================================
 
 Delegation can be a powerful tool for maximizing time, talent, and resources at work. However, there are several common obstacles that individuals may encounter when attempting to delegate effectively. In this chapter, we will explore these obstacles and provide strategies for overcoming them. By understanding and addressing these challenges, individuals can unlock the full potential of delegation and drive success in their endeavors.
