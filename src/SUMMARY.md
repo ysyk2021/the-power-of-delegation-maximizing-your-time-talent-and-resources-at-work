@@ -25,7 +25,6 @@
   - [Common Obstacles to Delegation](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Delegation](chapter-8.md)
-  - [Real-life Examples of Companies and Leaders who have Successfully Utilized Delegation Strategies](chapter-8-1.md)
 - [Chapter 9: Integrating Delegation with Organizational Culture](chapter-9.md)
   - [Fostering a Culture of Trust and Collaboration](chapter-9-1.md)
   - [Developing Delegation as a Leadership Competency](chapter-9-2.md)

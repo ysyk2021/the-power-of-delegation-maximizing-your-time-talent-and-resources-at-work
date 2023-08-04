@@ -1,8 +1,6 @@
 Qualitative and Quantitative Methods for Evaluation
 ==============================================================
 
-**Introduction**
-----------------
 
 In this chapter, we will explore the importance of evaluation in delegation and discuss qualitative and quantitative methods for assessing the effectiveness and impact of delegation practices. Evaluation allows individuals and organizations to measure progress, identify areas for improvement, and make informed decisions about their delegation strategies. We will examine different evaluation techniques, including interviews, surveys, observations, and data analysis, and discuss how they can be used to gather valuable insights and drive continuous improvement in delegation processes.
 
