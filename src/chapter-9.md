@@ -1,5 +1,3 @@
-Chapter 9: Integrating Delegation with Organizational Culture
-=============================================================
 
 Effective delegation is not just about assigning tasks; it is about creating a culture of trust and collaboration that encourages employees to share responsibilities and work together towards common goals. To truly maximize the benefits of delegation, it is important to integrate delegation with organizational culture.
 

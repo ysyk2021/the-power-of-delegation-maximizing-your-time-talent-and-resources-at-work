@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Delegation
-=============================================
 
 Delegation is an essential component of effective management, but it can be challenging at times. In this chapter, we will explore common obstacles to delegation and provide strategies for overcoming these challenges.
 

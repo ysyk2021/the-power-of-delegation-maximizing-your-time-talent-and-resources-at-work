@@ -1,5 +1,3 @@
-Common Myths About Delegation
-========================================
 
 In this chapter, we will debunk common myths surrounding delegation. Misconceptions about delegation can hinder individuals from fully harnessing its power to maximize time, talent, and resources at work. By dispelling these myths, we can gain a clearer understanding of the benefits and potential pitfalls of delegation. We will also provide insights into how to overcome these misconceptions and embrace delegation as a strategic tool for productivity and success.
 

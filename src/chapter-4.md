@@ -1,5 +1,3 @@
-Chapter 4: Selecting the Right People for the Job
-=================================================
 
 Effective delegation requires selecting the right people for the job. To do this, managers must identify potential delegates who are well-suited for the tasks they are given, assess their skills and capabilities, and build a delegation plan. In this chapter, we will explore strategies for selecting the right people for the job.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 Selecting the right people for the job is an essential component of effective delegation. By identifying potential delegates, assessing their skills and capabilities, and building a delegation plan, managers can ensure that tasks are delegated effectively and that delegates are empowered to succeed. When delegation is done effectively, it can help organizations achieve their goals more efficiently and effectively.
-
 

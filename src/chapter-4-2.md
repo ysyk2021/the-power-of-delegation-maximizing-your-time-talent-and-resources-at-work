@@ -1,5 +1,3 @@
-Assessing Delegates' Skills and Capabilities
-=======================================================
 
 In this chapter, we will explore the crucial process of assessing delegates' skills and capabilities when building an effective delegation plan. Understanding the strengths and abilities of potential delegates is essential for successful delegation. We will discuss the importance of conducting thorough assessments, techniques for evaluating skills and capabilities, and considerations for matching tasks to the right individuals. By accurately assessing delegates, individuals and organizations can make informed decisions, promote growth and development, and maximize the benefits of delegation.
 

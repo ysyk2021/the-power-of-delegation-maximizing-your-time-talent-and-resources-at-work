@@ -1,5 +1,3 @@
-Chapter 2: Understanding Delegation
-===================================
 
 Delegation is an essential component of effective management. It involves assigning tasks or responsibilities to others while retaining accountability for the outcome. In this chapter, we will explore the definition of delegation, its benefits, and common myths about delegation.
 

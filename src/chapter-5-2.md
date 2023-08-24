@@ -1,5 +1,3 @@
-Providing Adequate Training and Support
-==================================================
 
 To maximize the benefits of delegation and ensure successful outcomes, it is essential to provide adequate training and support to those to whom tasks are delegated. In this chapter, we will explore the importance of training and support in delegation and discuss strategies for effectively equipping individuals with the knowledge, skills, and resources they need to excel. By investing in comprehensive training and providing ongoing support, leaders can empower their team members, foster growth, and achieve optimal results.
 

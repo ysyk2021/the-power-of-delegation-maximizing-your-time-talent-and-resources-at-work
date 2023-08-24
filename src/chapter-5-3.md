@@ -1,5 +1,3 @@
-Giving Feedback and Recognition
-==========================================
 
 Providing feedback and recognition is an essential aspect of effective delegation. In this chapter, we will explore the importance of giving feedback and recognition when delegating tasks. We will discuss strategies for delivering constructive feedback, acknowledging accomplishments, and fostering a culture of continuous improvement. By mastering the art of giving feedback and recognition, individuals can enhance team performance, motivation, and overall success.
 

@@ -1,5 +1,3 @@
-Chapter 5: Communicating Effectively for Successful Delegation
-==============================================================
 
 Effective communication is essential for successful delegation. To delegate effectively, managers must be able to clearly communicate expectations and objectives, provide adequate training and support, and give feedback and recognition.
 
